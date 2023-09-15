@@ -85,7 +85,7 @@ class _DurumState extends State<Durum> {
             decoration: const BoxDecoration(
               shape: BoxShape.circle,
               image: DecorationImage(
-                image: AssetImage("assets/images/sulo.jpg"),
+                image: AssetImage("assets/images/pp.jpg"),
                 fit: BoxFit.cover,
               ),
             ),
